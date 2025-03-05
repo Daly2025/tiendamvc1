@@ -19,7 +19,9 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><i class="fa-solid fa-3x fa-shop"></i>Shop</a>
+        <a class="navbar-brand" href="#"><i class="fa-solid fa-4x fa-shopping-basket" style="color: green;"></i>Shop</a>
+
+
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
                 aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -110,7 +112,7 @@
             </div>
 
 
-            <button type="submit" class="btn col-12 btn-primary">Save</button>
+            <button type="submit" class="btn col-12 btn-primary">guardar</button>
         </form>
         <hr>
         <h3>Last Created Products</h3>
