@@ -29,7 +29,7 @@
                     <li class="nav-item">
                         <a href="<?= base_url() ?>provider">
                             <div>
-                                <i class="fa-solid fa-3x fa-building"></i>
+                            <i class='fas fa-user-tie'></i>
                                 <p>Providers</p>
                             </div>
                         </a>
@@ -37,7 +37,7 @@
                     <li class="nav-item">
                         <a href="<?= base_url() ?>customer">
                             <div>
-                                <i class="fa-solid fa-3x fa-circle-user"></i>
+                            <i class='fa fa-user-circle-o'></i>
                                 <p>Customer</p>
                             </div>
                         </a>
@@ -45,7 +45,8 @@
                     <li class="nav-item">
                         <a href="<?= base_url() ?>product">
                             <div>
-                                <i class="fa-solid fa-3x fa-shop"></i>
+                                
+                      <i class='fa fa-shopping-basket'></i>
                                 <p>Products</p>
                             </div>
                         </a>
@@ -53,7 +54,7 @@
                     <li class="nav-item">
                         <a href="<?= base_url() ?>sale">
                             <div>
-                                <i class="fa-brands fa-3x fa-salesforce"></i></i>
+                            <i class='fas fa-user-minus'></i>
                                 <p>Sales</p>
                             </div>
                         </a>
